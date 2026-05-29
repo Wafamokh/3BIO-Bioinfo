@@ -36,6 +36,16 @@ tools:
     documentation: ""
     publication_link: "10.1093/nar/gkt450"       # full URL if no DOI
     status: "online"           # online | maintenance | offline
+
+Databases: 
+
+- name: "FAD Food Allergen Database"
+    description: "The Food Allergen Database (FAD) centralizes biochemical, structural, immunological, and functional properties of all known food allergens and isoallergens."
+    image: ""
+    url: "http://babylone.ulb.ac.be/faddatabase/"
+    documentation: ""
+    publication_link: "10.1093/database/baag028"
+    status: "online"
     
 # INSTRUCTIONS FOR ADDING NEW SOFTWARE:
 # 1. Copy the tool block above
